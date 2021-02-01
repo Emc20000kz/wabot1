@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Bot Mini Game dan Moderasi Indonesia - Discord.">
+    <meta name="description" content="Kazumi Bot WhatSapp">
     <meta name=”robots” content="index, follow">
 
     <meta property="og:title" content="Kazumi Bot WhatSapp">
