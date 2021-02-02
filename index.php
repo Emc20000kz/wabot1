@@ -52,7 +52,7 @@
             <h1>Kazumi</h1>
             <p>Bot WhatSapp Kazumi Dan Moderasi Indonesia</p>
 
-            <a href="https://wa.me/+6285707314250" class="btn" target="_blank">Nomer</a>
+            <a href="https://wa.me/+6282131844856" class="btn" target="_blank">Nomer</a>
             <a href="https://trakteer.id/daffap-qen7o/" class="btn" target="_blank">Donate</a>
 
         </div>
